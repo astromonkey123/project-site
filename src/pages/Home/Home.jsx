@@ -23,10 +23,10 @@ const work = [
     href: '/software',
   },
   {
-    title: 'TensorFlux.jl',
+    title: 'Covariant.jl',
     description: 'A Julia package for differential geometry with real mathematical notation.',
-    img: '/software/assets/imgs/tensorflux.png',
-    href: 'https://echotops.github.io/TensorFlux.jl/home',
+    img: '/software/assets/imgs/covariant.png',
+    href: 'https://echotops.github.io/Covariant.jl/',
     external: true,
   },
 ]
